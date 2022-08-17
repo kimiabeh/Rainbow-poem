@@ -2,6 +2,9 @@ purple
 pink
 orang
 blue
+unicorn
 green
+yellow
 red
 These are a colors of  the rainbow.
+unicorn!
